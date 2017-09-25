@@ -1,0 +1,14 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+}
+
+.naruto {
+	border-width: 5px;
+	border-style: solid;
+}
+
+.content {
+	margin-top: 54px;
+}
