@@ -1,0 +1,16 @@
+/*Head & Footer Template File*/
+
+#header {
+	
+}
+
+/*Footer starts here*/
+#footer {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	padding: 2rem;
+	border-radius: 0px;
+}
+
+/*Head & Footer Template File*/
