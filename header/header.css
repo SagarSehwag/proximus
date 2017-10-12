@@ -1,3 +1,17 @@
-.sagar {
-	margin-top: 54px !important;
+body {
+	background-color: #eaeaea !important;
+}
+
+
+.bdcon {
+	background-color: white !important;
+	padding-left: 3rem !important;
+	padding-right: 3rem !important;
+	padding-bottom: 3rem !important;
+}
+
+.footer {
+	position: absolute !important;
+	width: 100%;
+	bottom: 0px !important;
 }
